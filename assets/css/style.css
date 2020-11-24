@@ -13,6 +13,9 @@ body {
   color: #4e4e4e;
 }
 
+.card-img {
+  min-height: 15rem;
+}
 h1,
 h2,
 h3,
@@ -764,6 +767,7 @@ a:hover {
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
+  min-height: 90%;
 }
 
 .service-box:hover .ico-circle {
